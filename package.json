@@ -4,7 +4,7 @@
   "description": "Simple json database",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "json-server --watch db.json --port 3001"
   },
   "keywords": [
     "json-server,heroku, node, REST API"
