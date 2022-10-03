@@ -4,7 +4,7 @@
   "description": "Simple json database",
   "main": "server.js",
   "scripts": {
-    "start": "json-server db.json"
+    "start": "node server.js"
   },
   "keywords": [
     "json-server,heroku, node, REST API"
